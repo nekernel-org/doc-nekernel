@@ -1,0 +1,25 @@
+var _a_r_m64_2_hal_application_processor_8cc =
+[
+    [ "Kernel::HAL_HARDWARE_THREAD", "struct_kernel_1_1_h_a_l___h_a_r_d_w_a_r_e___t_h_r_e_a_d.html", "struct_kernel_1_1_h_a_l___h_a_r_d_w_a_r_e___t_h_r_e_a_d" ],
+    [ "GICC_BASE", "_a_r_m64_2_hal_application_processor_8cc.html#a971c4b3a9504879ce74b96226288f742", null ],
+    [ "GICC_CTLR", "_a_r_m64_2_hal_application_processor_8cc.html#a11871e15a62cbfcc1e54f3dd2ce21e74", null ],
+    [ "GICC_EOIR", "_a_r_m64_2_hal_application_processor_8cc.html#af92519fe60b0cf2183a6100bea15dd43", null ],
+    [ "GICC_IAR", "_a_r_m64_2_hal_application_processor_8cc.html#a61672c3cde5301e076793c2ad904cdb9", null ],
+    [ "GICC_PMR", "_a_r_m64_2_hal_application_processor_8cc.html#a8d72b8216b091c1d148b5812bc46e7d4", null ],
+    [ "GICD_BASE", "_a_r_m64_2_hal_application_processor_8cc.html#a60145b8750e840c58949fbc9483f2fc5", null ],
+    [ "GICD_CTLR", "_a_r_m64_2_hal_application_processor_8cc.html#a00f17ebce4b31e38e18375340fdf3826", null ],
+    [ "GICD_ICENABLER", "_a_r_m64_2_hal_application_processor_8cc.html#a93b67ba2b0e625f47ef7371672c4a763", null ],
+    [ "GICD_ICFGR", "_a_r_m64_2_hal_application_processor_8cc.html#a19a431597ba16fd0c9522a9220ecec4c", null ],
+    [ "GICD_ICPENDR", "_a_r_m64_2_hal_application_processor_8cc.html#a249bdc6117c2852af6101081463ac0f8", null ],
+    [ "GICD_IPRIORITYR", "_a_r_m64_2_hal_application_processor_8cc.html#a54223891ce5bf421ec198ea84855490a", null ],
+    [ "GICD_ISENABLER", "_a_r_m64_2_hal_application_processor_8cc.html#ad6013481a4c73be9ba10c48b63c0b4b3", null ],
+    [ "GICD_ISPENDR", "_a_r_m64_2_hal_application_processor_8cc.html#adcfba29d834be7844951c0db7a9706c8", null ],
+    [ "GICD_ITARGETSR", "_a_r_m64_2_hal_application_processor_8cc.html#a9128764019e69b9d5ec839ecd583dd87", null ],
+    [ "mp_get_current_task", "_a_r_m64_2_hal_application_processor_8cc.html#a64b1746030e3d8fb1f81e7f4debd8335", null ],
+    [ "mp_handle_gic_interrupt_el0", "_a_r_m64_2_hal_application_processor_8cc.html#a9a536fa826b965fedc4a9bc0eae2db03", null ],
+    [ "mp_init_cores", "_a_r_m64_2_hal_application_processor_8cc.html#a572ff592dc970ed6b041cded38d31028", null ],
+    [ "mp_register_task", "_a_r_m64_2_hal_application_processor_8cc.html#aca71e974851c325b8699f4ff742c0be8", null ],
+    [ "mp_setup_gic_el0", "_a_r_m64_2_hal_application_processor_8cc.html#abc92ef4ad7f6efcbd4ba3e0e605b6dfe", null ],
+    [ "kGICEnabled", "_a_r_m64_2_hal_application_processor_8cc.html#a1d3140ee2ff731643e55951a785cb51b", null ],
+    [ "kHWThread", "_a_r_m64_2_hal_application_processor_8cc.html#ae3f6bde4264c866ebce2c2646250e191", null ]
+];
