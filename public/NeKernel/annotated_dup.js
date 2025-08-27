@@ -184,6 +184,7 @@ var annotated_dup =
       [ "Qr", "structqr_1_1_qr.html", "structqr_1_1_qr" ],
       [ "QrDelegate", "classqr_1_1_qr_delegate.html", "classqr_1_1_qr_delegate" ]
     ] ],
+    [ "_BOOTNET_INTERNET_HEADER", "struct___b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html", "struct___b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r" ],
     [ "_DosHeader", "struct___dos_header.html", "struct___dos_header" ],
     [ "_EfiCPUPhyiscalLocation", "struct___efi_c_p_u_phyiscal_location.html", "struct___efi_c_p_u_phyiscal_location" ],
     [ "_EfiExtendedProcessorInformation", "union___efi_extended_processor_information.html", "union___efi_extended_processor_information" ],
@@ -192,7 +193,6 @@ var annotated_dup =
     [ "atexit_func_entry_t", "structatexit__func__entry__t.html", "structatexit__func__entry__t" ],
     [ "BootDeviceATA", "class_boot_device_a_t_a.html", "class_boot_device_a_t_a" ],
     [ "BootDeviceSATA", "class_boot_device_s_a_t_a.html", "class_boot_device_s_a_t_a" ],
-    [ "BOOTNET_INTERNET_HEADER", "struct_b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html", "struct_b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r" ],
     [ "DDK_FINAL", "struct_d_d_k___f_i_n_a_l.html", "struct_d_d_k___f_i_n_a_l" ],
     [ "EFI_FINAL", "struct_e_f_i___f_i_n_a_l.html", "struct_e_f_i___f_i_n_a_l" ],
     [ "EFI_SIMPLE_NETWORK_MODE", "struct_e_f_i___s_i_m_p_l_e___n_e_t_w_o_r_k___m_o_d_e.html", "struct_e_f_i___s_i_m_p_l_e___n_e_t_w_o_r_k___m_o_d_e" ],

@@ -1,0 +1,75 @@
+var hierarchy =
+[
+    [ "AEHeader", "struct_compiler_kit_1_1_a_e_header.html", null ],
+    [ "AEReadableProtocol", "class_compiler_kit_1_1_utils_1_1_a_e_readable_protocol.html", null ],
+    [ "AERecordHeader", "struct_compiler_kit_1_1_a_e_record_header.html", null ],
+    [ "AssemblyFactory", "class_compiler_kit_1_1_assembly_factory.html", null ],
+    [ "AssemblyInterface", "class_compiler_kit_1_1_assembly_interface.html", null ],
+    [ "basic_uuid_random_generator< UniformRandomNumberGenerator >", "classuuids_1_1basic__uuid__random__generator.html", null ],
+    [ "BasicString", "class_compiler_kit_1_1_basic_string.html", null ],
+    [ "bpp_macro", "struct_detail_1_1bpp__macro.html", null ],
+    [ "bpp_macro_condition", "struct_detail_1_1bpp__macro__condition.html", null ],
+    [ "CK_ASSEMBLY_INTERFACE", "class_c_k___a_s_s_e_m_b_l_y___i_n_t_e_r_f_a_c_e.html", null ],
+    [ "CK_COMPILER_FRONTEND", "class_c_k___c_o_m_p_i_l_e_r___f_r_o_n_t_e_n_d.html", null ],
+    [ "CompilerFrontendInterface", "class_compiler_kit_1_1_compiler_frontend_interface.html", [
+      [ "CompilerFrontend64x0", "class_compiler_frontend64x0.html", null ],
+      [ "CompilerFrontendARM64", "class_compiler_frontend_a_r_m64.html", null ],
+      [ "CompilerFrontendPower64", "class_compiler_frontend_power64.html", null ]
+    ] ],
+    [ "CompilerKeyword", "struct_compiler_kit_1_1_compiler_keyword.html", null ],
+    [ "CompilerKitDylibTraits", "struct_compiler_kit_dylib_traits.html", null ],
+    [ "CompilerRegisterMap", "struct_compiler_register_map.html", null ],
+    [ "CompilerRegisterMap", "struct_detail_1_1_compiler_register_map.html", null ],
+    [ "CompilerState", "struct_compiler_state.html", null ],
+    [ "CompilerState", "struct_detail_1_1_compiler_state.html", null ],
+    [ "CompilerStructMap", "struct_compiler_struct_map.html", null ],
+    [ "CompilerStructMap", "struct_detail_1_1_compiler_struct_map.html", null ],
+    [ "CompilerType", "struct_detail_1_1_compiler_type.html", null ],
+    [ "CpuCode32x0", "struct_cpu_code32x0.html", null ],
+    [ "CpuOpcode64x0", "struct_cpu_opcode64x0.html", null ],
+    [ "CpuOpcodeAMD64", "struct_cpu_opcode_a_m_d64.html", null ],
+    [ "CpuOpcodeArm64_Data", "struct_cpu_opcode_arm64___data.html", null ],
+    [ "CpuOpcodePPC", "struct_cpu_opcode_p_p_c.html", null ],
+    [ "DebuggerContract", "class_debugger_kit_1_1_debugger_contract.html", null ],
+    [ "double_cast", "union_detail_1_1double__cast.html", null ],
+    [ "double_cast", "uniondouble__cast.html", null ],
+    [ "DynamicLinkerBlob", "struct_detail_1_1_dynamic_linker_blob.html", null ],
+    [ "EncoderInterface", "class_compiler_kit_1_1_encoder_interface.html", null ],
+    [ "ErrorOr< T >", "class_compiler_kit_1_1_error_or.html", null ],
+    [ "executor", "classpfd_1_1internal_1_1executor.html", null ],
+    [ "float_cast", "unionfloat__cast.html", null ],
+    [ "NonNullRef< T >", "class_compiler_kit_1_1_non_null_ref.html", null ],
+    [ "number_cast", "union_detail_1_1number__cast.html", null ],
+    [ "NumberCast16", "union_compiler_kit_1_1_number_cast16.html", null ],
+    [ "NumberCast32", "union_compiler_kit_1_1_number_cast32.html", null ],
+    [ "NumberCast64", "union_compiler_kit_1_1_number_cast64.html", null ],
+    [ "NumberCast8", "union_compiler_kit_1_1_number_cast8.html", null ],
+    [ "NumberCastBase", "union_compiler_kit_1_1_number_cast_base.html", null ],
+    [ "OpcodeType", "struct_cpu_opcode_p_p_c_1_1_opcode_type.html", null ],
+    [ "PACKED", "struct_p_a_c_k_e_d.html", null ],
+    [ "PEFCommandHeader", "struct_compiler_kit_1_1_p_e_f_command_header.html", null ],
+    [ "PEFContainer", "struct_compiler_kit_1_1_p_e_f_container.html", null ],
+    [ "platform", "classpfd_1_1internal_1_1platform.html", [
+      [ "dialog", "classpfd_1_1internal_1_1dialog.html", [
+        [ "file_dialog", "classpfd_1_1internal_1_1file__dialog.html", [
+          [ "open_file", "classpfd_1_1open__file.html", null ],
+          [ "save_file", "classpfd_1_1save__file.html", null ],
+          [ "select_folder", "classpfd_1_1select__folder.html", null ]
+        ] ],
+        [ "message", "classpfd_1_1message.html", null ],
+        [ "notify", "classpfd_1_1notify.html", null ]
+      ] ],
+      [ "path", "classpfd_1_1path.html", null ]
+    ] ],
+    [ "Ref< T >", "class_compiler_kit_1_1_ref.html", null ],
+    [ "settings", "classpfd_1_1settings.html", [
+      [ "dialog", "classpfd_1_1internal_1_1dialog.html", null ]
+    ] ],
+    [ "sha1", "classuuids_1_1_detail_1_1sha1.html", null ],
+    [ "StringBuilder", "struct_compiler_kit_1_1_string_builder.html", null ],
+    [ "SyntaxLeaf", "struct_compiler_kit_1_1_syntax_leaf_list_1_1_syntax_leaf.html", null ],
+    [ "SyntaxLeafList", "struct_compiler_kit_1_1_syntax_leaf_list.html", null ],
+    [ "uuid", "classuuids_1_1uuid.html", null ],
+    [ "uuid_name_generator", "classuuids_1_1uuid__name__generator.html", null ],
+    [ "XCoffFileHeader", "struct_compiler_kit_1_1_x_coff_file_header.html", null ]
+];

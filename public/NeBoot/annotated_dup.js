@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "_BAT", "struct___b_a_t.html", "struct___b_a_t" ],
+    [ "_BATL", "struct___b_a_t_l.html", "struct___b_a_t_l" ],
+    [ "_BATU", "struct___b_a_t_u.html", "struct___b_a_t_u" ],
+    [ "_bootnet_inet_header", "struct__bootnet__inet__header.html", "struct__bootnet__inet__header" ],
+    [ "_cb_file_descriptor", "struct__cb__file__descriptor.html", "struct__cb__file__descriptor" ],
+    [ "_cb_tpin_recovery_packet", "struct__cb__tpin__recovery__packet.html", "struct__cb__tpin__recovery__packet" ],
+    [ "_MMU_context", "struct___m_m_u__context.html", "struct___m_m_u__context" ],
+    [ "_P601_BAT", "struct___p601___b_a_t.html", "struct___p601___b_a_t" ],
+    [ "_P601_BATL", "struct___p601___b_a_t_l.html", "struct___p601___b_a_t_l" ],
+    [ "_P601_BATU", "struct___p601___b_a_t_u.html", "struct___p601___b_a_t_u" ],
+    [ "_PTE", "struct___p_t_e.html", "struct___p_t_e" ],
+    [ "_pte", "struct__pte.html", "struct__pte" ],
+    [ "_SEGREG", "struct___s_e_g_r_e_g.html", "struct___s_e_g_r_e_g" ],
+    [ "_xcoff_fork_header", "struct__xcoff__fork__header.html", "struct__xcoff__fork__header" ],
+    [ "_xcoff_header", "struct__xcoff__header.html", "struct__xcoff__header" ],
+    [ "atexit_func_entry_t", "structatexit__func__entry__t.html", "structatexit__func__entry__t" ],
+    [ "boot_guid", "structboot__guid.html", "structboot__guid" ],
+    [ "cb_hba_port", "structcb__hba__port.html", "structcb__hba__port" ],
+    [ "cpu_type", "structcpu__type.html", "structcpu__type" ],
+    [ "float_t", "unionfloat__t.html", "unionfloat__t" ],
+    [ "hw_cb_pci_tree", "structhw__cb__pci__tree.html", "structhw__cb__pci__tree" ],
+    [ "mm_segment_t", "structmm__segment__t.html", "structmm__segment__t" ],
+    [ "pt_regs", "structpt__regs.html", "structpt__regs" ],
+    [ "thread_struct", "structthread__struct.html", "structthread__struct" ]
+];

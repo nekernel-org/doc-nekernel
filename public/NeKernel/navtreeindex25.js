@@ -1,5 +1,6 @@
 var NAVTREEINDEX25 =
 {
+"struct_efi_graphics_output_protocol.html#ab32db1dc9f05d723a77df21841f2a1a5":[6,0,26,2],
 "struct_efi_graphics_output_protocol_mode.html":[6,0,27],
 "struct_efi_graphics_output_protocol_mode.html#a1528aeaac500fa8dfe3e3cf5ee4de275":[6,0,27,5],
 "struct_efi_graphics_output_protocol_mode.html#a28764c598e1445fcd4785ca98705ccfb":[6,0,27,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX25 =
 "struct_hba_cmd_tbl.html#a913b9d3009a3cea2dd01e6ae26aab184":[6,0,58,0],
 "struct_hba_cmd_tbl.html#aee63a10cb22d7d80d01fccf59a0d44fa":[6,0,58,1],
 "struct_hba_fis.html":[6,0,59],
-"struct_hba_fis.html#a0179ccb8b1ed02585e51140e527a7615":[6,0,59,4],
-"struct_hba_fis.html#a3daf102e813abbf99e605f7a38675f86":[6,0,59,5]
+"struct_hba_fis.html#a0179ccb8b1ed02585e51140e527a7615":[6,0,59,4]
 };

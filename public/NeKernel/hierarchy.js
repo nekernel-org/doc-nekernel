@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "_BOOTNET_INTERNET_HEADER", "struct___b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html", null ],
     [ "_DosHeader", "struct___dos_header.html", null ],
     [ "_EfiCPUPhyiscalLocation", "struct___efi_c_p_u_phyiscal_location.html", null ],
     [ "_EfiExtendedProcessorInformation", "union___efi_extended_processor_information.html", null ],
@@ -25,7 +26,6 @@ var hierarchy =
     [ "BootDeviceSATA", "class_boot_device_s_a_t_a.html", null ],
     [ "Boot::BootFileReader", "class_boot_1_1_boot_file_reader.html", null ],
     [ "Kernel::HEL::BootInfoHeader", "struct_kernel_1_1_h_e_l_1_1_boot_info_header.html", null ],
-    [ "BOOTNET_INTERNET_HEADER", "struct_b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html", null ],
     [ "Boot::BootTextWriter", "class_boot_1_1_boot_text_writer.html", null ],
     [ "Boot::BootThread", "class_boot_1_1_boot_thread.html", null ],
     [ "Boot::BVersionString", "class_boot_1_1_b_version_string.html", null ],

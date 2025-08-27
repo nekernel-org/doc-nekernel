@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['necti_5fcopy_5fdefault_0',['necti_copy_default',['../_compiler_kit_2_defines_8h.html#ac7bcb9148c528b6814af097c816ae60b',1,'NECTI_COPY_DEFAULT:&#160;Defines.h'],['../_macros_8h.html#ac7bcb9148c528b6814af097c816ae60b',1,'NECTI_COPY_DEFAULT:&#160;Macros.h']]],
+  ['necti_5fcopy_5fdelete_1',['necti_copy_delete',['../_compiler_kit_2_defines_8h.html#ac0432b543166403dee2df0334550d17d',1,'NECTI_COPY_DELETE:&#160;Defines.h'],['../_macros_8h.html#ac0432b543166403dee2df0334550d17d',1,'NECTI_COPY_DELETE:&#160;Macros.h']]],
+  ['necti_5fdir_5fnot_5ffound_2',['NECTI_DIR_NOT_FOUND',['../_error_i_d_8h.html#a5650e4c80e1d052d45db1cb4365c5b80',1,'ErrorID.h']]],
+  ['necti_5ferror_5fprefix_5fasm_3',['NECTI_ERROR_PREFIX_ASM',['../_macros_8h.html#aac99be2788a3b126f7437afffc09afbb',1,'Macros.h']]],
+  ['necti_5ferror_5fprefix_5fcl_4',['NECTI_ERROR_PREFIX_CL',['../_macros_8h.html#aca70d0b10eecb7ece5e1f6e085607474',1,'Macros.h']]],
+  ['necti_5ferror_5fprefix_5fcxx_5',['NECTI_ERROR_PREFIX_CXX',['../_macros_8h.html#a9a8d882e2d2b00a09f07e710dba24bfa',1,'Macros.h']]],
+  ['necti_5fexec_5ferror_6',['NECTI_EXEC_ERROR',['../_error_i_d_8h.html#a83515b8b82f0751f2a0e98e51a124cc4',1,'ErrorID.h']]],
+  ['necti_5ffat_5ferror_7',['NECTI_FAT_ERROR',['../_error_i_d_8h.html#a13715b77e7357bb6c6c306566d1e503c',1,'ErrorID.h']]],
+  ['necti_5ffile_5fexists_8',['NECTI_FILE_EXISTS',['../_error_i_d_8h.html#ab7a840391af54fcfdfff10e4f82df297',1,'ErrorID.h']]],
+  ['necti_5ffile_5fnot_5ffound_9',['NECTI_FILE_NOT_FOUND',['../_error_i_d_8h.html#a0a5baca4797d85a88688e45019f5e498',1,'ErrorID.h']]],
+  ['necti_5finvalid_5farch_10',['NECTI_INVALID_ARCH',['../_error_i_d_8h.html#a63434bc2ccfb00ce8baa58dba716b74f',1,'ErrorID.h']]],
+  ['necti_5finvalid_5fdata_11',['NECTI_INVALID_DATA',['../_error_i_d_8h.html#a5f9bbc72e66c4b171fb7dca714134c2a',1,'ErrorID.h']]],
+  ['necti_5fmodule_12',['NECTI_MODULE',['../_compiler_kit_2_defines_8h.html#aada4652bb7c12f0c1e6480cc69913b4a',1,'Defines.h']]],
+  ['necti_5fmove_5fdefault_13',['necti_move_default',['../_compiler_kit_2_defines_8h.html#ad47fdb3f4dde86bc26a32dd5bea72eef',1,'NECTI_MOVE_DEFAULT:&#160;Defines.h'],['../_macros_8h.html#ad47fdb3f4dde86bc26a32dd5bea72eef',1,'NECTI_MOVE_DEFAULT:&#160;Macros.h']]],
+  ['necti_5fmove_5fdelete_14',['necti_move_delete',['../_compiler_kit_2_defines_8h.html#afa1c808c8df4060d91e12cea78b90fce',1,'NECTI_MOVE_DELETE:&#160;Defines.h'],['../_macros_8h.html#afa1c808c8df4060d91e12cea78b90fce',1,'NECTI_MOVE_DELETE:&#160;Macros.h']]],
+  ['necti_5fsuccess_15',['NECTI_SUCCESS',['../_error_i_d_8h.html#aa8109c5c57a7bc84d7b7b92bfc53c607',1,'ErrorID.h']]],
+  ['necti_5ftoo_5flong_16',['NECTI_TOO_LONG',['../_error_i_d_8h.html#a36f2044802cb8089cae239138bbec353',1,'ErrorID.h']]],
+  ['necti_5funimplemented_17',['NECTI_UNIMPLEMENTED',['../_error_i_d_8h.html#a2a558fa08462a0ca97515c2e63ec2e9b',1,'ErrorID.h']]],
+  ['no_18',['no',['../_compiler_kit_2_defines_8h.html#a996bde01ecac342918f0a2c4e7ce7bd5',1,'NO:&#160;Defines.h'],['../_compiler_kit_2_defines_8h.html#a554d6ecb4ae62985018db18be458114d',1,'No:&#160;Defines.h']]],
+  ['null_19',['NULL',['../_lib_c_09_09_2_defines_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4',1,'defines.h']]],
+  ['nullptr_20',['nullPtr',['../_compiler_kit_2_defines_8h.html#a1ffdce71fedf11b1e3b26e56f6026394',1,'Defines.h']]]
+];

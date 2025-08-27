@@ -193,7 +193,7 @@ var NAVTREEINDEX6 =
 "_semaphore_8h_source.html":[7,0,0,2,8,25],
 "_server_8h.html":[7,0,0,4,0,1],
 "_server_8h.html#a0a9eae3af1b2eb4f8e30ed9d341ba571":[7,0,0,4,0,1,4],
-"_server_8h.html#a4a7ab7e06f8de9eded442cf2499b9bd8":[7,0,0,4,0,1,1],
+"_server_8h.html#a50da1acf6969c468c8a2ff2ce384a163":[7,0,0,4,0,1,1],
 "_server_8h.html#a9c24b23b955263e61add4d3b800ceeea":[7,0,0,4,0,1,2],
 "_server_8h.html#ae6da6e5661206172a44396be3ee2b323":[7,0,0,4,0,1,3],
 "_server_8h_source.html":[7,0,0,4,0,1],

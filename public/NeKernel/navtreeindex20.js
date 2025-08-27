@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"namespace_firmware_1_1_detail_1_1_ne_boot.html#a5d8a50eb2a4eb8ba2b3c7e84c94ff89e":[5,0,7,0,1,0],
 "namespace_kernel.html":[5,0,8],
 "namespace_kernel.html#a002c2e8ecbf1ce3546edc3ec74de4b9b":[5,0,8,380],
 "namespace_kernel.html#a014feec8c8a9551bbb7277ec64f9bcd0":[5,0,8,125],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "namespace_kernel.html#a9eec37da34f03b8e1395bed5deae3104":[5,0,8,213],
 "namespace_kernel.html#a9f4abff06b9d2fe606cf2a6746120711":[5,0,8,182],
 "namespace_kernel.html#a9fb3d2a027cf345995c54c44a205ad5c":[5,0,8,260],
-"namespace_kernel.html#aa0b07d794e34e6b08fccc1bc494d87b6":[5,0,8,186],
-"namespace_kernel.html#aa1565d0497e7ccea403426f62f2048a4":[5,0,8,229]
+"namespace_kernel.html#aa0b07d794e34e6b08fccc1bc494d87b6":[5,0,8,186]
 };

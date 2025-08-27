@@ -14,7 +14,7 @@ var searchData=
   ['imageentrypointoffset_11',['ImageEntrypointOffset',['../struct_kernel_1_1_i_dylib_object_1_1_dylib_traits.html#aff110d4f86daf558f0abc68136a64345',1,'Kernel::IDylibObject::DylibTraits']]],
   ['imageobject_12',['ImageObject',['../struct_kernel_1_1_i_dylib_object_1_1_dylib_traits.html#a0225f0a6c9d5156e73e046e7deea86c1',1,'Kernel::IDylibObject::DylibTraits']]],
   ['imagesize_13',['ImageSize',['../struct_efi_load_image_protocol.html#afd55ff517198c829a112e6290a3443cd',1,'EfiLoadImageProtocol']]],
-  ['impliesprogram_14',['ImpliesProgram',['../struct_b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html#ab780ceb543dae7f2c49a8b69f3521802',1,'BOOTNET_INTERNET_HEADER']]],
+  ['impliesprogram_14',['ImpliesProgram',['../struct___b_o_o_t_n_e_t___i_n_t_e_r_n_e_t___h_e_a_d_e_r.html#a7705cd1e290f8ec74a277f7730524487',1,'_BOOTNET_INTERNET_HEADER']]],
   ['info_15',['Info',['../struct_efi_graphics_output_protocol_mode.html#adb947234705e1f1af3c245bdfe99300e',1,'EfiGraphicsOutputProtocolMode']]],
   ['initialize_16',['Initialize',['../struct_e_f_i___s_i_m_p_l_e___n_e_t_w_o_r_k___p_r_o_t_o_c_o_l.html#a4879ba91875825895616879e28b506a9',1,'EFI_SIMPLE_NETWORK_PROTOCOL']]],
   ['installconfigurationtable_17',['InstallConfigurationTable',['../struct_efi_boot_services.html#a76ec3a7b8c8832df17dd7d90fbf56062',1,'EfiBootServices']]],

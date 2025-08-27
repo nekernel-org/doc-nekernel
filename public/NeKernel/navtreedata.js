@@ -108,19 +108,19 @@ var NAVTREEINDEX =
 "classpfd_1_1internal_1_1dialog.html#a05f9a4fcba8f8a9411d7dfaf18ee11ad",
 "dir_0283967d62184923b69f36af7d48072e.html",
 "globals_func_r.html",
-"lib_system_2_system_kit_2macros_8h.html#aab68908257a1ee8e227048141326e457",
-"namespace_kernel.html",
-"namespace_kernel.html#aa1565d0497e7ccea403426f62f2048a4a04140928414c1198b8423a16016a08b8",
-"namespace_kernel_1_1_types.html#a5c5c4eda9d3dd5916ce058b2f65e59d0a48a89646eee56c986361338ba8af6e28",
-"namespaceutl.html#a2674f6ed33b433dc1409b5b0a3432f3b",
-"struct_d_i_1_1_d_i___d_i_s_k___i_m_a_g_e.html#a4b1aadab8a3c1da0e4c84c776fd57a2e",
-"struct_efi_graphics_output_protocol_mode.html",
-"struct_hba_fis.html#a4a1acb5694c0dc39defdc7cd6857f269",
+"lib_system_2_system_kit_2macros_8h.html#aaa25d67f876e77346aeca5db9fdc34e8",
+"namespace_firmware_1_1_detail_1_1_ne_boot.html#a5d8a50eb2a4eb8ba2b3c7e84c94ff89e",
+"namespace_kernel.html#aa1565d0497e7ccea403426f62f2048a4",
+"namespace_kernel_1_1_types.html#a5c5c4eda9d3dd5916ce058b2f65e59d0a1385a39a4884c42b25f4e2f24d4f52dc",
+"namespaceutl.html#a21cef0a0a9b36b529bb7b405e69f30c0",
+"struct_d_i_1_1_d_i___d_i_s_k___i_m_a_g_e.html#a406b080b93ecfd16d4f4285d421921d3",
+"struct_efi_graphics_output_protocol.html#ab32db1dc9f05d723a77df21841f2a1a5",
+"struct_hba_fis.html#a3daf102e813abbf99e605f7a38675f86",
 "struct_kernel_1_1_drive_trait.html#af9901556e9dc5779c385326fa8d88930",
 "struct_kernel_1_1_h_e_f_s___b_o_o_t___n_o_d_e.html#ab7cab0efe5708e7cae4a23ce377e4ff3",
 "struct_kernel_1_1_i_p_c___a_d_d_r.html#af7b19c728c4cfb14fa89bd2f6148c0a3",
 "struct_kernel_1_1_z_x_d___e_x_e_c___h_e_a_d_e_r.html#a458dd1baab02b172d1cb29b294e26d20",
-"tools_2libmkfs_2hefs_8h.html"
+"todo.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
