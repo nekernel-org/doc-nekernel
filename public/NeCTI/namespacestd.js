@@ -10,6 +10,7 @@ var namespacestd =
     [ "base_math", "namespacestd_1_1base__math.html", [
       [ "lerp", "namespacestd_1_1base__math.html#a8cf8861266e9b982a2eb370a99d02c62", null ],
       [ "pow", "namespacestd_1_1base__math.html#a7ef659c30974113a7d7a7458784a65e8", null ],
+      [ "sqrt", "namespacestd_1_1base__math.html#a4fc29d4686c58a062aac23da1860a76f", null ],
       [ "surd", "namespacestd_1_1base__math.html#a979cea0fe67a25cf71bff86584a23283", null ]
     ] ],
     [ "base_process", "namespacestd_1_1base__process.html", [

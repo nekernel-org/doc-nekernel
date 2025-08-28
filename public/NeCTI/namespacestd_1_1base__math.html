@@ -102,6 +102,8 @@ Functions</h2></td></tr>
 <tr class="memitem:a7ef659c30974113a7d7a7458784a65e8"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a>&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd_1_1base__math.html#a7ef659c30974113a7d7a7458784a65e8">pow</a> (<a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> in)</td></tr>
 <tr class="memdesc:a7ef659c30974113a7d7a7458784a65e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Power function, with Repeat argument.  <br /></td></tr>
 <tr class="separator:a7ef659c30974113a7d7a7458784a65e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fc29d4686c58a062aac23da1860a76f" id="r_a4fc29d4686c58a062aac23da1860a76f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacestd_1_1base__math.html#a4fc29d4686c58a062aac23da1860a76f">sqrt</a> (<a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> in)</td></tr>
+<tr class="separator:a4fc29d4686c58a062aac23da1860a76f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a979cea0fe67a25cf71bff86584a23283" id="r_a979cea0fe67a25cf71bff86584a23283"><td class="memTemplParams" colspan="2">template&lt;<a class="el" href="_lib_c_09_09_2_defines_8h.html#aa9d55e2f20e580b7445617d0d12fff6e">size_t</a> Base&gt; </td></tr>
 <tr class="memitem:a979cea0fe67a25cf71bff86584a23283"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a>&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacestd_1_1base__math.html#a979cea0fe67a25cf71bff86584a23283">surd</a> (<a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> in)</td></tr>
 <tr class="memdesc:a979cea0fe67a25cf71bff86584a23283"><td class="mdescLeft">&#160;</td><td class="mdescRight">Square of function, with Base template argument.  <br /></td></tr>
@@ -161,11 +163,11 @@ Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00050">50</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   50</span>                                                                    {</div>
-<div class="line"><span class="lineno">   51</span>  <a class="code hl_typedef" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> diff = (to - from);</div>
-<div class="line"><span class="lineno">   52</span>  <span class="keywordflow">return</span> from + (diff * stat);</div>
-<div class="line"><span class="lineno">   53</span>}</div>
+<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00071">71</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>                                                                    {</div>
+<div class="line"><span class="lineno">   72</span>  <a class="code hl_typedef" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> diff = (to - from);</div>
+<div class="line"><span class="lineno">   73</span>  <span class="keywordflow">return</span> from + (diff * stat);</div>
+<div class="line"><span class="lineno">   74</span>}</div>
 <div class="ttc" id="abase__math_8h_html_a00aef3a20898f12710461a3a40d9452a"><div class="ttname"><a href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a></div><div class="ttdeci">float real_type</div><div class="ttdef"><b>Definition</b> <a href="base__math_8h_source.html#l00017">base_math.h:17</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -198,20 +200,62 @@ template&lt;<a class="el" href="_lib_c_09_09_2_defines_8h.html#aa9d55e2f20e580b7
 
 <p>Power function, with Repeat argument. </p>
 
-<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00023">23</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   23</span>                                   {</div>
-<div class="line"><span class="lineno">   24</span>  <span class="keywordflow">if</span> (Exponent == 0) <span class="keywordflow">return</span> 1;  <span class="comment">// Any number to the power of 0 is 1.</span></div>
-<div class="line"><span class="lineno">   25</span> </div>
-<div class="line"><span class="lineno">   26</span>  <span class="keywordflow">if</span> (Exponent == 1) <span class="keywordflow">return</span> in;  <span class="comment">// Any number to the power of 1 is itself.</span></div>
+<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00025">25</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>                                   {</div>
+<div class="line"><span class="lineno">   26</span>  <span class="keywordflow">if</span> (Exponent == 0) <span class="keywordflow">return</span> 1;  <span class="comment">// Any number to the power of 0 is 1.</span></div>
 <div class="line"><span class="lineno">   27</span> </div>
-<div class="line"><span class="lineno">   28</span>  <span class="keywordtype">size_t</span> cnt = Exponent;</div>
+<div class="line"><span class="lineno">   28</span>  <span class="keywordflow">if</span> (Exponent == 1) <span class="keywordflow">return</span> in;  <span class="comment">// Any number to the power of 1 is itself.</span></div>
 <div class="line"><span class="lineno">   29</span> </div>
-<div class="line"><span class="lineno">   30</span>  <a class="code hl_typedef" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> result = 1;</div>
+<div class="line"><span class="lineno">   30</span>  <span class="keywordtype">size_t</span> cnt = Exponent;</div>
 <div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>  <span class="keywordflow">for</span> (<span class="keyword">auto</span> i = 0; i &lt; cnt; ++i) result *= in;</div>
+<div class="line"><span class="lineno">   32</span>  <a class="code hl_typedef" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> result = 1;</div>
 <div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>  <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">   35</span>}</div>
+<div class="line"><span class="lineno">   34</span>  <span class="keywordflow">for</span> (<span class="keyword">auto</span> i = 0; i &lt; cnt; ++i) result *= in;</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>  <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">   37</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4fc29d4686c58a062aac23da1860a76f" name="a4fc29d4686c58a062aac23da1860a76f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fc29d4686c58a062aac23da1860a76f">&#9670;&#160;</a></span>sqrt()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a> sqrt </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="base__math_8h.html#a00aef3a20898f12710461a3a40d9452a">real_type</a>&#160;</td>
+          <td class="paramname"><em>in</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00039">39</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>                                    {</div>
+<div class="line"><span class="lineno">   40</span>  <span class="keywordflow">if</span> (in == 0) <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   41</span>  <span class="keywordflow">if</span> (in == not_a_number) <span class="keywordflow">return</span> not_a_number;</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>  <span class="keyword">auto</span> <span class="keyword">constexpr</span> <span class="keyword">const</span> <span class="keyword">static</span> Base = 2;</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>  <span class="keyword">auto</span> x = in / Base;</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>  <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 10; ++i) {</div>
+<div class="line"><span class="lineno">   48</span>    x = (x + in / x) / Base;</div>
+<div class="line"><span class="lineno">   49</span>  }</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>  <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno">   52</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -249,13 +293,17 @@ template&lt;<a class="el" href="_lib_c_09_09_2_defines_8h.html#aa9d55e2f20e580b7
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00040">40</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   40</span>                                    {</div>
-<div class="line"><span class="lineno">   41</span>  <span class="keywordflow">if</span> (in == 0) <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>  <span class="keywordflow">return</span> <a class="code hl_function" href="namespacestd_1_1base__math.html#a7ef659c30974113a7d7a7458784a65e8">pow</a>&lt;1 / Base&gt;(in);</div>
-<div class="line"><span class="lineno">   44</span>}</div>
-<div class="ttc" id="anamespacestd_1_1base__math_html_a7ef659c30974113a7d7a7458784a65e8"><div class="ttname"><a href="namespacestd_1_1base__math.html#a7ef659c30974113a7d7a7458784a65e8">std::base_math::pow</a></div><div class="ttdeci">real_type pow(real_type in)</div><div class="ttdoc">Power function, with Repeat argument.</div><div class="ttdef"><b>Definition</b> <a href="base__math_8h_source.html#l00023">base_math.h:23</a></div></div>
+<p class="definition">Definition at line <a class="el" href="base__math_8h_source.html#l00057">57</a> of file <a class="el" href="base__math_8h_source.html">base_math.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>                                    {</div>
+<div class="line"><span class="lineno">   58</span>  <span class="keywordflow">if</span> (in == 0) <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   59</span>  <span class="keywordflow">if</span> (in == 1) <span class="keywordflow">return</span> 1;</div>
+<div class="line"><span class="lineno">   60</span>  </div>
+<div class="line"><span class="lineno">   61</span>  <span class="keywordflow">if</span> (Base == 1) <span class="keywordflow">return</span> in;</div>
+<div class="line"><span class="lineno">   62</span>  <span class="keywordflow">if</span> (Base == 2) <span class="keywordflow">return</span> <a class="code hl_function" href="namespacestd_1_1base__math.html#a4fc29d4686c58a062aac23da1860a76f">sqrt</a>(in);</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>  <span class="keywordflow">return</span> not_a_number;</div>
+<div class="line"><span class="lineno">   65</span>}</div>
+<div class="ttc" id="anamespacestd_1_1base__math_html_a4fc29d4686c58a062aac23da1860a76f"><div class="ttname"><a href="namespacestd_1_1base__math.html#a4fc29d4686c58a062aac23da1860a76f">std::base_math::sqrt</a></div><div class="ttdeci">real_type sqrt(real_type in)</div><div class="ttdef"><b>Definition</b> <a href="base__math_8h_source.html#l00039">base_math.h:39</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
