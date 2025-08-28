@@ -1,0 +1,25 @@
+var spdlog_inl_8h =
+[
+    [ "apply_all", "spdlog-inl_8h.html#acd2549db52c78e99c0c4400b9350e356", null ],
+    [ "apply_logger_env_levels", "spdlog-inl_8h.html#a8065422451cc2c43fcae3ae5447e905b", null ],
+    [ "default_logger", "spdlog-inl_8h.html#a8bfbc0528acec460b90b9f860a4b4043", null ],
+    [ "default_logger_raw", "spdlog-inl_8h.html#a705f094f9897041b4e98bfe3c567ada0", null ],
+    [ "disable_backtrace", "spdlog-inl_8h.html#a04d6b3af3f40c02a52279cdc0a7afcff", null ],
+    [ "drop", "spdlog-inl_8h.html#aae7cf2be87ddada8e5dc0c6e41ffc887", null ],
+    [ "drop_all", "spdlog-inl_8h.html#af5f9a5c8606600fdac171e998b2f0a33", null ],
+    [ "dump_backtrace", "spdlog-inl_8h.html#a7b5639f2df6f424744bf6a5420aa0ddb", null ],
+    [ "enable_backtrace", "spdlog-inl_8h.html#a711d93cee8b66bea59fad5d6bb846520", null ],
+    [ "flush_on", "spdlog-inl_8h.html#abcfc3d450223e6ac6d90afaeb6993666", null ],
+    [ "get", "spdlog-inl_8h.html#a2ea9bbc022884118624667da30a0d149", null ],
+    [ "get_level", "spdlog-inl_8h.html#ac6302bb2b9f87e5602fa4ed07d68b9e1", null ],
+    [ "initialize_logger", "spdlog-inl_8h.html#a2ce7922734103b5a2d1289c6053a8808", null ],
+    [ "register_logger", "spdlog-inl_8h.html#a0744a4789e19b39d80bd18efccc5c49f", null ],
+    [ "set_automatic_registration", "spdlog-inl_8h.html#a7fc8dab46af5b58d51d3b999ce010100", null ],
+    [ "set_default_logger", "spdlog-inl_8h.html#ad1f0e7767254eef0c4e23a6a2a40549c", null ],
+    [ "set_error_handler", "spdlog-inl_8h.html#a7a3afca7257bf5a90dd47dd95e3cee7a", null ],
+    [ "set_formatter", "spdlog-inl_8h.html#acc4462a0284624191f0942f772d3a682", null ],
+    [ "set_level", "spdlog-inl_8h.html#a420294e88f1c1ab1ab827c385e311c79", null ],
+    [ "set_pattern", "spdlog-inl_8h.html#ae7550434e7e8db53188e988741659f2e", null ],
+    [ "should_log", "spdlog-inl_8h.html#ada6c5679f4cf39bb79bfbbae653acc02", null ],
+    [ "shutdown", "spdlog-inl_8h.html#a7775e1780d52934ac4c4b7944b2b1559", null ]
+];

@@ -1,0 +1,26 @@
+var classlitehtml_1_1formatting__context =
+[
+    [ "formatting_context", "classlitehtml_1_1formatting__context.html#aad1bcfbf16fed5129545c979d8d40b96", null ],
+    [ "add_float", "classlitehtml_1_1formatting__context.html#a5df8800391944f40dbe65490915ac9d4", null ],
+    [ "apply_relative_shift", "classlitehtml_1_1formatting__context.html#ac5471d73cdfd96a40ea1fe69cd35e56a", null ],
+    [ "clear_floats", "classlitehtml_1_1formatting__context.html#a32b3f24704d61184d6bef9d63370bd87", null ],
+    [ "find_min_left", "classlitehtml_1_1formatting__context.html#a49c34a63bec18bcecb5f9b2c4431341e", null ],
+    [ "find_min_right", "classlitehtml_1_1formatting__context.html#a6592818f71be351eda39c13bfef32e1d", null ],
+    [ "find_next_line_top", "classlitehtml_1_1formatting__context.html#ad461cb725ecbd2ce882f63dc35573b2b", null ],
+    [ "get_cleared_top", "classlitehtml_1_1formatting__context.html#aab35b09675792c6164831a9a4fb7347f", null ],
+    [ "get_floats_height", "classlitehtml_1_1formatting__context.html#a5cca7f4565c6e74b60277754304b18cd", null ],
+    [ "get_left_floats_height", "classlitehtml_1_1formatting__context.html#a747fad67fead58edfecb89b67ea5126c", null ],
+    [ "get_line_left", "classlitehtml_1_1formatting__context.html#ad76ca12bbf40a51f99b5fb179942deb2", null ],
+    [ "get_line_left_right", "classlitehtml_1_1formatting__context.html#a2d2b511a926333cdc1ee1be259875906", null ],
+    [ "get_line_right", "classlitehtml_1_1formatting__context.html#a5535b693a66f7476212e3b9a61013aa4", null ],
+    [ "get_right_floats_height", "classlitehtml_1_1formatting__context.html#a2324f2759717c00bc7692b66614daa86", null ],
+    [ "pop_position", "classlitehtml_1_1formatting__context.html#af5bb48c0b2b13e36e56bd744215014a3", null ],
+    [ "push_position", "classlitehtml_1_1formatting__context.html#a9058a119fbbfed348fa5f7f2a437950a", null ],
+    [ "update_floats", "classlitehtml_1_1formatting__context.html#a973fdd576c67d710437586a6a9bbc854", null ],
+    [ "m_cache_line_left", "classlitehtml_1_1formatting__context.html#a7e4ef4cf55df3ffa0c79d6ba9e789bef", null ],
+    [ "m_cache_line_right", "classlitehtml_1_1formatting__context.html#ac7a98a58ec49e16afbf477e7d86f6be9", null ],
+    [ "m_current_left", "classlitehtml_1_1formatting__context.html#a6ecf8318048bc50e755c513a455488a2", null ],
+    [ "m_current_top", "classlitehtml_1_1formatting__context.html#abe24f370d98050b7855e282cc662c139", null ],
+    [ "m_floats_left", "classlitehtml_1_1formatting__context.html#a92085e6a840572e5daf78ac54b07ffbc", null ],
+    [ "m_floats_right", "classlitehtml_1_1formatting__context.html#a8a2130cad1ea29567e4694e073c531ed", null ]
+];

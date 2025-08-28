@@ -1,0 +1,4 @@
+var structdragonbox_1_1float__info_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_4_4ad7b4cb4a466ca2ac994b2f626f3574 =
+[
+    [ "carrier_uint", "structdragonbox_1_1float__info_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_4_4ad7b4cb4a466ca2ac994b2f626f3574.html#aa25701cc79178cd6767a0c9444498dba", null ]
+];

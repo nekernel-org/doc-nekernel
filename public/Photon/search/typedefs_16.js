@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['wcstring_5fview_0',['wcstring_view',['../fmt_2bundled_2os_8h.html#a98fc52506266131c4391a72514b66272',1,'os.h']]],
+  ['weak_5fptr_1',['weak_ptr',['../classlitehtml_1_1document.html#a6913753ef5f75f7a739dbd72d636b156',1,'litehtml::document::weak_ptr'],['../classlitehtml_1_1element.html#a87cbf30532a1e9a46bfafbfcb15e1776',1,'litehtml::element::weak_ptr']]],
+  ['wformat_5fargs_2',['wformat_args',['../bundled_2xchar_8h.html#afff8faaf423d40e312921ee1506eaf5b',1,'xchar.h']]],
+  ['wformat_5fcontext_3',['wformat_context',['../bundled_2xchar_8h.html#afaf716eff630583a20315ab7e4f0f8d0',1,'xchar.h']]],
+  ['wformat_5fparse_5fcontext_4',['wformat_parse_context',['../bundled_2xchar_8h.html#a9a60587ace165efab2fc40bddf69c89c',1,'xchar.h']]],
+  ['wformat_5fstring_5',['wformat_string',['../bundled_2xchar_8h.html#a69c1b057042c87184f2220c79696ef73',1,'xchar.h']]],
+  ['win_5feventlog_5fsink_5fmt_6',['win_eventlog_sink_mt',['../namespacespdlog_1_1sinks.html#a9576e6e0b45e834221ebbe8582c5ea51',1,'spdlog::sinks']]],
+  ['win_5feventlog_5fsink_5fst_7',['win_eventlog_sink_st',['../namespacespdlog_1_1sinks.html#aa64e49a6830376efcc8a47cd2aa03b8b',1,'spdlog::sinks']]],
+  ['wincolor_5fstderr_5fsink_5fmt_8',['wincolor_stderr_sink_mt',['../namespacespdlog_1_1sinks.html#a4e5e2ff76c08458ccd5c457d16801bea',1,'spdlog::sinks']]],
+  ['wincolor_5fstderr_5fsink_5fst_9',['wincolor_stderr_sink_st',['../namespacespdlog_1_1sinks.html#a290fe37b7ee148fd5739c266d4108d36',1,'spdlog::sinks']]],
+  ['wincolor_5fstdout_5fsink_5fmt_10',['wincolor_stdout_sink_mt',['../namespacespdlog_1_1sinks.html#a7ca85cac6c5cc7cd85a01fd81c43e1c0',1,'spdlog::sinks']]],
+  ['wincolor_5fstdout_5fsink_5fst_11',['wincolor_stdout_sink_st',['../namespacespdlog_1_1sinks.html#a90e268e1b14aa99ed385373b2ac57354',1,'spdlog::sinks']]],
+  ['windowhandle_12',['WindowHandle',['../namespace_photon_1_1_detail.html#abaa1bfe7f12343a1d2b36e2c116bdbc5',1,'Photon::Detail']]],
+  ['wmemory_5fbuffer_13',['wmemory_buffer',['../bundled_2xchar_8h.html#a982966c062384d8ef0f4c909007df461',1,'xchar.h']]],
+  ['wprintf_5fargs_14',['wprintf_args',['../printf_8h.html#a2f2c17979fd4518c4bf1b770ba9bb566',1,'printf.h']]],
+  ['wprintf_5fcontext_15',['wprintf_context',['../printf_8h.html#a86435ef6c23e5bad804886c34ac81a3a',1,'printf.h']]],
+  ['wstring_5fview_16',['wstring_view',['../bundled_2xchar_8h.html#a5164ea4aed26e7700ce4a006d1d32475',1,'xchar.h']]]
+];

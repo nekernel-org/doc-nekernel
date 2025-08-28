@@ -4,21 +4,108 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NeKernel.org OpenKnowledge</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css" rel="stylesheet">
 </head>
-<body>
-    <h1>NeKernel.org OpenKnowledge</h1>
-    <p>This is the main page for the NeKernel.org knowledge center.</p>
-    <p>Here are the documented HTML/PDF/TeX papers.</p>
+<body class="bg-light">
+    <!-- Header -->
+    <header class="bg-dark text-white py-4 mb-4">
+        <div class="container">
+            <h1 class="display-4 mb-2">
+                <i class="bi bi-book text-primary me-3"></i>
+                NeKernel.org OpenKnowledge
+            </h1>
+            <p class="lead mb-0">Comprehensive knowledge center and documentation hub</p>
+        </div>
+    </header>
 
-    <nav>
-        <ul>
-            <li><a href="/NeKernel/index.html">NeKernel</a></li>
-            <li><a href="/NeCTI/index.html">NeCTI</a></li>
-            <li><a href="/NeBoot/index.html">NeBoot</a></li>
-            <li><a href="/NeBuild/index.html">NeBuild</a></li>
-            <li><a href="/Photon/index.html">Photon</a></li>
-            <li><a href="/Open64x0/index.html">Open64x0</a></li>
-        </ul>
-    </nav>
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <!-- Welcome Section -->
+                <div class="card shadow-sm mb-4">
+                    <div class="card-body">
+                        <h2 class="card-title h4 text-primary mb-3">
+                            <i class="bi bi-house-door me-2"></i>
+                            Welcome to the Knowledge Center
+                        </h2>
+                        <p class="card-text">This is the main page for the NeKernel.org knowledge center.</p>
+                        <p class="card-text text-muted">Here are the documented HTML/PDF/TeX papers and resources.</p>
+                    </div>
+                </div>
+
+                <!-- Documentation Navigation -->
+                <div class="card shadow-sm">
+                    <div class="card-header bg-primary text-white">
+                        <h3 class="card-title h5 mb-0">
+                            <i class="bi bi-collection me-2"></i>
+                            Documentation Categories
+                        </h3>
+                    </div>
+                    <div class="card-body p-0">
+                        <div class="list-group list-group-flush">
+                            <a href="/NeKernel/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-cpu text-primary me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">NeKernel</h6>
+                                    <small class="text-muted">Core kernel documentation and specifications, alongside its frameworks and tools.</small>
+                                </div>
+                            </a>
+                            <a href="/NeCTI/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-shield-check text-success me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">NeCTI</h6>
+                                    <small class="text-muted">NeKernel's Compiler Infrastructure</small>
+                                </div>
+                            </a>
+                            <a href="/NeBoot/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-power text-warning me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">NeBoot</h6>
+                                    <small class="text-muted">Firmware system</small>
+                                </div>
+                            </a>
+                            <a href="/NeBuild/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-tools text-info me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">NeBuild</h6>
+                                    <small class="text-muted">Build system and compilation tools</small>
+                                </div>
+                            </a>
+                            <a href="/Photon/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-lightning text-danger me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">Photon</h6>
+                                    <small class="text-muted">Browser Engine Framework</small>
+                                </div>
+                            </a>
+                            <a href="/Open64x0/index.html" class="list-group-item list-group-item-action d-flex align-items-center">
+                                <i class="bi bi-motherboard text-secondary me-3"></i>
+                                <div>
+                                    <h6 class="mb-1">Open64x0</h6>
+                                    <small class="text-muted">64-bit architecture specifications</small>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white mt-5 py-4">
+        <div class="container text-center">
+            <p class="mb-0">
+                <i class="bi bi-globe me-2"></i>
+                Amlal El Mahrouss and NeKernel Contributors &copy; 2025
+            </p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
