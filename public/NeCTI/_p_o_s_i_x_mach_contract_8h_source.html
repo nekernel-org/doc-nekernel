@@ -189,7 +189,7 @@ $(document).ready(function(){initNavTree('_p_o_s_i_x_mach_contract_8h_source.htm
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>  <a class="code hl_define" href="_compiler_kit_2_defines_8h.html#ae4cc35dcc70810fa972cc8a5185a28fa">BOOL</a> BreakAt(std::string symbol) <span class="keyword">noexcept</span> <span class="keyword">override</span> {</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>    <span class="keywordflow">if</span> (!m_path.empty() &amp;&amp; std::filesystem::exists(m_path) &amp;&amp;</div>
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        std::filesystem::is_regular_file(m_path)) {</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>      <span class="keyword">auto</span> handle = dlopen(m_path.c_str(), RTDK_LAZY);</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>      <span class="keyword">auto</span> handle = dlopen(m_path.c_str(), RTLD_LAZY);</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span> </div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>      <span class="keywordflow">if</span> (handle == <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>

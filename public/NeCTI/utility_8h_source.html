@@ -99,9 +99,9 @@ $(document).ready(function(){initNavTree('utility_8h_source.html',''); initResiz
 </div><!--header-->
 <div class="contents">
 <a href="utility_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/* -------------------------------------------</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment">                     \</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"> Copyright (C) 2024-2025 Amlal El Mahrouss, all rights reserved.               \</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment">                     \</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment"></span> </div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"> Copyright (C) 2024-2025 Amlal El Mahrouss, all rights reserved.</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment"></span> </div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment">------------------------------------------- */</span></div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#ifndef LIBCXX_UTILITY_H</span></div>
@@ -110,14 +110,14 @@ $(document).ready(function(){initNavTree('utility_8h_source.html',''); initResiz
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespacestd.html">std</a> {</div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="keyword">template</span> &lt;<span class="keyword">typename</span> Args&gt;</div>
 <div class="foldopen" id="foldopen00016" data-start="{" data-end="}">
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno"><a class="line" href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">   16</a></span><span class="keyword">inline</span> Args&amp;&amp; <a class="code hl_function" href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">forward</a>(Args&amp; arg) {</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>  <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>Args&amp;&amp;<span class="keyword">&gt;</span>(arg);</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno"><a class="line" href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">   16</a></span><span class="keyword">inline</span> <span class="keyword">auto</span> <a class="code hl_function" href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">forward</a>(Args&amp; arg) -&gt; Args&amp;&amp; {</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>  <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keyword">const </span>Args&amp;&amp;<span class="keyword">&gt;</span>(arg);</div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>}</div>
 </div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">template</span> &lt;<span class="keyword">typename</span> Args&gt;</div>
 <div class="foldopen" id="foldopen00025" data-start="{" data-end="}">
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno"><a class="line" href="namespacestd.html#a7a6cc72ffe6c435d0dbc544b37c8fe86">   25</a></span><span class="keyword">inline</span> Args&amp;&amp; <a class="code hl_function" href="namespacestd.html#a7a6cc72ffe6c435d0dbc544b37c8fe86">move</a>(Args&amp;&amp; arg) {</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno"><a class="line" href="namespacestd.html#a7674c9c115e5e1a15d8f428ab40b348d">   25</a></span><span class="keyword">inline</span> <span class="keyword">auto</span> <a class="code hl_function" href="namespacestd.html#a7674c9c115e5e1a15d8f428ab40b348d">move</a>(Args&amp;&amp; arg) -&gt; Args&amp;&amp; {</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>  <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>Args&amp;&amp;<span class="keyword">&gt;</span>(arg);</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>}</div>
 </div>
@@ -125,8 +125,8 @@ $(document).ready(function(){initNavTree('utility_8h_source.html',''); initResiz
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span><span class="preprocessor">#endif  </span><span class="comment">// LIBCXX_UTILITY_H</span></div>
 <div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="namespacestd.html">std</a></div><div class="ttdef"><b>Definition</b> <a href="_u_u_i_d_8h_source.html#l00802">UUID.h:802</a></div></div>
-<div class="ttc" id="anamespacestd_html_a79a18feff19efa9d3c549f202a74f0e1"><div class="ttname"><a href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">std::forward</a></div><div class="ttdeci">Args &amp;&amp; forward(Args &amp;arg)</div><div class="ttdoc">Forward object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00016">utility.h:16</a></div></div>
-<div class="ttc" id="anamespacestd_html_a7a6cc72ffe6c435d0dbc544b37c8fe86"><div class="ttname"><a href="namespacestd.html#a7a6cc72ffe6c435d0dbc544b37c8fe86">std::move</a></div><div class="ttdeci">Args &amp;&amp; move(Args &amp;&amp;arg)</div><div class="ttdoc">Move object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00025">utility.h:25</a></div></div>
+<div class="ttc" id="anamespacestd_html_a24aee3ccbb894ab97e20eb6f5c7b84f4"><div class="ttname"><a href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">std::forward</a></div><div class="ttdeci">auto forward(Args &amp;arg) -&gt; Args &amp;&amp;</div><div class="ttdoc">Forward object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00016">utility.h:16</a></div></div>
+<div class="ttc" id="anamespacestd_html_a7674c9c115e5e1a15d8f428ab40b348d"><div class="ttname"><a href="namespacestd.html#a7674c9c115e5e1a15d8f428ab40b348d">std::move</a></div><div class="ttdeci">auto move(Args &amp;&amp;arg) -&gt; Args &amp;&amp;</div><div class="ttdoc">Move object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00025">utility.h:25</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

@@ -152,9 +152,9 @@ template&lt;typename KindClass , typename... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="base__alloc_8h_source.html#l00015">15</a> of file <a class="el" href="base__alloc_8h_source.html">base_alloc.h</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   15</span>                                           {</div>
-<div class="line"><span class="lineno">   16</span>  <span class="keywordflow">return</span> <span class="keyword">new</span> KindClass(<a class="code hl_function" href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">forward</a>(args)...);</div>
+<div class="line"><span class="lineno">   16</span>  <span class="keywordflow">return</span> <span class="keyword">new</span> KindClass(<a class="code hl_function" href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">forward</a>(args)...);</div>
 <div class="line"><span class="lineno">   17</span>}</div>
-<div class="ttc" id="anamespacestd_html_a79a18feff19efa9d3c549f202a74f0e1"><div class="ttname"><a href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">std::forward</a></div><div class="ttdeci">Args &amp;&amp; forward(Args &amp;arg)</div><div class="ttdoc">Forward object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00016">utility.h:16</a></div></div>
+<div class="ttc" id="anamespacestd_html_a24aee3ccbb894ab97e20eb6f5c7b84f4"><div class="ttname"><a href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">std::forward</a></div><div class="ttdeci">auto forward(Args &amp;arg) -&gt; Args &amp;&amp;</div><div class="ttdoc">Forward object.</div><div class="ttdef"><b>Definition</b> <a href="utility_8h_source.html#l00016">utility.h:16</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -195,7 +195,7 @@ template&lt;typename KindClass , typename... Args&gt; </div>
 
 <p class="definition">Definition at line <a class="el" href="base__alloc_8h_source.html#l00023">23</a> of file <a class="el" href="base__alloc_8h_source.html">base_alloc.h</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   23</span>                                                            {</div>
-<div class="line"><span class="lineno">   24</span>  <span class="keywordflow">return</span> <a class="code hl_function" href="namespacestd_1_1base__alloc.html#a353999586bce48a416d92c2d575b63d7">allocate</a>(<a class="code hl_function" href="namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1">forward</a>(args)...);</div>
+<div class="line"><span class="lineno">   24</span>  <span class="keywordflow">return</span> <a class="code hl_function" href="namespacestd_1_1base__alloc.html#a353999586bce48a416d92c2d575b63d7">allocate</a>(<a class="code hl_function" href="namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4">forward</a>(args)...);</div>
 <div class="line"><span class="lineno">   25</span>}</div>
 <div class="ttc" id="anamespacestd_1_1base__alloc_html_a353999586bce48a416d92c2d575b63d7"><div class="ttname"><a href="namespacestd_1_1base__alloc.html#a353999586bce48a416d92c2d575b63d7">std::base_alloc::allocate</a></div><div class="ttdeci">KindClass * allocate(Args &amp;&amp;... args)</div><div class="ttdoc">allocate a new class.</div><div class="ttdef"><b>Definition</b> <a href="base__alloc_8h_source.html#l00015">base_alloc.h:15</a></div></div>
 </div><!-- fragment -->

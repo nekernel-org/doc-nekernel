@@ -191,7 +191,7 @@ var NAVTREEINDEX6 =
 "unionfloat__cast.html#aee431de626e5328d57f32ac0cf6c7b36":[3,0,20,3],
 "unionfloat__cast.html#af900396d7b72ff2a7002e8befe8cf8f1":[3,0,20,2],
 "utility_8h.html":[4,0,0,2,9],
-"utility_8h.html#a79a18feff19efa9d3c549f202a74f0e1":[4,0,0,2,9,0],
-"utility_8h.html#a7a6cc72ffe6c435d0dbc544b37c8fe86":[4,0,0,2,9,1],
+"utility_8h.html#a24aee3ccbb894ab97e20eb6f5c7b84f4":[4,0,0,2,9,0],
+"utility_8h.html#a7674c9c115e5e1a15d8f428ab40b348d":[4,0,0,2,9,1],
 "utility_8h_source.html":[4,0,0,2,9]
 };

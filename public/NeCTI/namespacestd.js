@@ -10,7 +10,7 @@ var namespacestd =
     [ "base_math", "namespacestd_1_1base__math.html", [
       [ "lerp", "namespacestd_1_1base__math.html#a8cf8861266e9b982a2eb370a99d02c62", null ],
       [ "pow", "namespacestd_1_1base__math.html#a7ef659c30974113a7d7a7458784a65e8", null ],
-      [ "sqr", "namespacestd_1_1base__math.html#a29e76b80ddb83bc04945e7cefa4fbc42", null ]
+      [ "surd", "namespacestd_1_1base__math.html#a979cea0fe67a25cf71bff86584a23283", null ]
     ] ],
     [ "base_process", "namespacestd_1_1base__process.html", [
       [ "exit", "namespacestd_1_1base__process.html#a433d1e83ad39c6848cc86766b7507f99", null ],
@@ -19,6 +19,6 @@ var namespacestd =
       [ "__atexit_lst_cnt", "namespacestd_1_1base__process.html#ae5e79fc5c554263438f984bda11e8b7b", null ],
       [ "__atexit_lst_ptr", "namespacestd_1_1base__process.html#a26a61f7f4a3da55c0820389284bd1ac5", null ]
     ] ],
-    [ "forward", "namespacestd.html#a79a18feff19efa9d3c549f202a74f0e1", null ],
-    [ "move", "namespacestd.html#a7a6cc72ffe6c435d0dbc544b37c8fe86", null ]
+    [ "forward", "namespacestd.html#a24aee3ccbb894ab97e20eb6f5c7b84f4", null ],
+    [ "move", "namespacestd.html#a7674c9c115e5e1a15d8f428ab40b348d", null ]
 ];
