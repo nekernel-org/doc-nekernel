@@ -1,6 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"qt__sinks_8h.html#a5a7d7bf2ce714305a2dfffb54f2f0c33":[4,0,1,3,3,16,4],
 "qt__sinks_8h.html#abce42d3adc858ac2c275a4be787a294f":[4,0,1,3,3,16,6],
 "qt__sinks_8h.html#ac0f90f341e47140bde0434a13970eb52":[4,0,1,3,3,16,8],
 "qt__sinks_8h.html#ae2a6b6bd946574763c8ef3a8ade0ed31":[4,0,1,3,3,16,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX41 =
 "stdout__color__sinks_8h.html#a07f4a8a8e3783e661caef977ea24f534":[4,0,1,3,3,23,7],
 "stdout__color__sinks_8h.html#a4ff5f41910270b3b947d0a280e39e7a0":[4,0,1,3,3,23,5],
 "stdout__color__sinks_8h.html#a58091bb55dd96f7e29ccc044338c054c":[4,0,1,3,3,23,0],
-"stdout__color__sinks_8h.html#ac25ac04f182a0f51db3ac7d98b3e564b":[4,0,1,3,3,23,4]
+"stdout__color__sinks_8h.html#ac25ac04f182a0f51db3ac7d98b3e564b":[4,0,1,3,3,23,4],
+"stdout__color__sinks_8h.html#adf8d38fe4201bc8f4b5255c4fbea7aae":[4,0,1,3,3,23,1]
 };

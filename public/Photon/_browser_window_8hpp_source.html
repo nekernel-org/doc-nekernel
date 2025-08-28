@@ -439,45 +439,35 @@ $(document).ready(function(){initNavTree('_browser_window_8hpp_source.html','');
 <div class="line"><a id="l00335" name="l00335"></a><span class="lineno">  335</span> </div>
 <div class="line"><a id="l00336" name="l00336"></a><span class="lineno">  336</span>                        m_tab_handle = shell.<a class="code hl_function" href="class_photon_1_1_shell_factory.html#a1c4d436bf7f163c4dd23420b30ea6cdb">tab</a>(m_tab_name);</div>
 <div class="line"><a id="l00337" name="l00337"></a><span class="lineno">  337</span> </div>
-<div class="line"><a id="l00338" name="l00338"></a><span class="lineno">  338</span><span class="preprocessor">#ifdef __PHOTON_APPLE__</span></div>
-<div class="line"><a id="l00339" name="l00339"></a><span class="lineno">  339</span>                        [m_tab_handle setSubtitle:[NSString stringWithUTF8String:url.<a class="code hl_function" href="class_photon_1_1_u_r_l.html#a14c3b72d2343a183d3d87eca64e2237c">get</a>().c_str()]];</div>
-<div class="line"><a id="l00340" name="l00340"></a><span class="lineno">  340</span> </div>
-<div class="line"><a id="l00341" name="l00341"></a><span class="lineno">  341</span>                        NSToolbar* toolbar              = [[NSToolbar alloc] initWithIdentifier:<span class="stringliteral">@&quot;NSToolbarIdentifierTab&quot;</span>];</div>
-<div class="line"><a id="l00342" name="l00342"></a><span class="lineno">  342</span>                        toolbar.allowsUserCustomization = YES;</div>
-<div class="line"><a id="l00343" name="l00343"></a><span class="lineno">  343</span>                        toolbar.displayMode             = NSToolbarDisplayModeIconAndLabel;</div>
-<div class="line"><a id="l00344" name="l00344"></a><span class="lineno">  344</span> </div>
-<div class="line"><a id="l00345" name="l00345"></a><span class="lineno">  345</span>                        [m_tab_handle setToolbar:toolbar];</div>
-<div class="line"><a id="l00346" name="l00346"></a><span class="lineno">  346</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00338" name="l00338"></a><span class="lineno">  338</span>                        m_document_root-&gt;insert_element(m_tab_handle);</div>
+<div class="line"><a id="l00339" name="l00339"></a><span class="lineno">  339</span> </div>
+<div class="line"><a id="l00340" name="l00340"></a><span class="lineno">  340</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00341" name="l00341"></a><span class="lineno">  341</span>                    }</div>
+<div class="line"><a id="l00342" name="l00342"></a><span class="lineno">  342</span>                }</div>
+<div class="line"><a id="l00343" name="l00343"></a><span class="lineno">  343</span>            }</div>
+<div class="line"><a id="l00344" name="l00344"></a><span class="lineno">  344</span>            <span class="keywordflow">catch</span> (...)</div>
+<div class="line"><a id="l00345" name="l00345"></a><span class="lineno">  345</span>            {</div>
+<div class="line"><a id="l00346" name="l00346"></a><span class="lineno">  346</span>            }</div>
 <div class="line"><a id="l00347" name="l00347"></a><span class="lineno">  347</span> </div>
-<div class="line"><a id="l00348" name="l00348"></a><span class="lineno">  348</span>                        m_document_root-&gt;insert_element(m_tab_handle);</div>
-<div class="line"><a id="l00349" name="l00349"></a><span class="lineno">  349</span> </div>
-<div class="line"><a id="l00350" name="l00350"></a><span class="lineno">  350</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00351" name="l00351"></a><span class="lineno">  351</span>                    }</div>
-<div class="line"><a id="l00352" name="l00352"></a><span class="lineno">  352</span>                }</div>
-<div class="line"><a id="l00353" name="l00353"></a><span class="lineno">  353</span>            }</div>
-<div class="line"><a id="l00354" name="l00354"></a><span class="lineno">  354</span>            <span class="keywordflow">catch</span> (...)</div>
-<div class="line"><a id="l00355" name="l00355"></a><span class="lineno">  355</span>            {</div>
-<div class="line"><a id="l00356" name="l00356"></a><span class="lineno">  356</span>            }</div>
+<div class="line"><a id="l00348" name="l00348"></a><span class="lineno">  348</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00349" name="l00349"></a><span class="lineno">  349</span>        }</div>
+</div>
+<div class="line"><a id="l00350" name="l00350"></a><span class="lineno">  350</span> </div>
+<div class="foldopen" id="foldopen00351" data-start="{" data-end="}">
+<div class="line"><a id="l00351" name="l00351"></a><span class="lineno"><a class="line" href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">  351</a></span>        <span class="keywordtype">void</span> <a class="code hl_function" href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">release</a>()</div>
+<div class="line"><a id="l00352" name="l00352"></a><span class="lineno">  352</span>        {</div>
+<div class="line"><a id="l00353" name="l00353"></a><span class="lineno">  353</span>            <span class="keyword">delete</span> m_dom;</div>
+<div class="line"><a id="l00354" name="l00354"></a><span class="lineno">  354</span> </div>
+<div class="line"><a id="l00355" name="l00355"></a><span class="lineno">  355</span>            <span class="keyword">delete</span> m_document_root;</div>
+<div class="line"><a id="l00356" name="l00356"></a><span class="lineno">  356</span>            m_document_root = <span class="keyword">nullptr</span>;</div>
 <div class="line"><a id="l00357" name="l00357"></a><span class="lineno">  357</span> </div>
-<div class="line"><a id="l00358" name="l00358"></a><span class="lineno">  358</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00359" name="l00359"></a><span class="lineno">  359</span>        }</div>
+<div class="line"><a id="l00358" name="l00358"></a><span class="lineno">  358</span>            m_html_blob.clear();</div>
+<div class="line"><a id="l00359" name="l00359"></a><span class="lineno">  359</span>            m_tab_name.clear();</div>
+<div class="line"><a id="l00360" name="l00360"></a><span class="lineno">  360</span>        }</div>
 </div>
-<div class="line"><a id="l00360" name="l00360"></a><span class="lineno">  360</span> </div>
-<div class="foldopen" id="foldopen00361" data-start="{" data-end="}">
-<div class="line"><a id="l00361" name="l00361"></a><span class="lineno"><a class="line" href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">  361</a></span>        <span class="keywordtype">void</span> <a class="code hl_function" href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">release</a>()</div>
-<div class="line"><a id="l00362" name="l00362"></a><span class="lineno">  362</span>        {</div>
-<div class="line"><a id="l00363" name="l00363"></a><span class="lineno">  363</span>            <span class="keyword">delete</span> m_dom;</div>
-<div class="line"><a id="l00364" name="l00364"></a><span class="lineno">  364</span> </div>
-<div class="line"><a id="l00365" name="l00365"></a><span class="lineno">  365</span>            <span class="keyword">delete</span> m_document_root;</div>
-<div class="line"><a id="l00366" name="l00366"></a><span class="lineno">  366</span>            m_document_root = <span class="keyword">nullptr</span>;</div>
-<div class="line"><a id="l00367" name="l00367"></a><span class="lineno">  367</span> </div>
-<div class="line"><a id="l00368" name="l00368"></a><span class="lineno">  368</span>            m_html_blob.clear();</div>
-<div class="line"><a id="l00369" name="l00369"></a><span class="lineno">  369</span>            m_tab_name.clear();</div>
-<div class="line"><a id="l00370" name="l00370"></a><span class="lineno">  370</span>        }</div>
+<div class="line"><a id="l00361" name="l00361"></a><span class="lineno">  361</span>    };</div>
 </div>
-<div class="line"><a id="l00371" name="l00371"></a><span class="lineno">  371</span>    };</div>
-</div>
-<div class="line"><a id="l00372" name="l00372"></a><span class="lineno">  372</span>} <span class="comment">// namespace Photon</span></div>
+<div class="line"><a id="l00362" name="l00362"></a><span class="lineno">  362</span>} <span class="comment">// namespace Photon</span></div>
 </div>
 <div class="ttc" id="a_core_8hpp_html"><div class="ttname"><a href="_core_8hpp.html">Core.hpp</a></div></div>
 <div class="ttc" id="a_core_8hpp_html_aef06547dee1de8b309456a3e8d8f7765"><div class="ttname"><a href="_core_8hpp.html#aef06547dee1de8b309456a3e8d8f7765">PHOTON_EMPTY_HTML</a></div><div class="ttdeci">#define PHOTON_EMPTY_HTML</div><div class="ttdef"><b>Definition</b> Core.hpp:24</div></div>
@@ -489,7 +479,7 @@ $(document).ready(function(){initNavTree('_browser_window_8hpp_source.html','');
 <div class="ttc" id="aclass_photon_1_1_browser_window_html"><div class="ttname"><a href="class_photon_1_1_browser_window.html">Photon::BrowserWindow</a></div><div class="ttdef"><b>Definition</b> BrowserWindow.hpp:33</div></div>
 <div class="ttc" id="aclass_photon_1_1_browser_window_html_a37a88e20aff97321efa27a819ec3dedf"><div class="ttname"><a href="class_photon_1_1_browser_window.html#a37a88e20aff97321efa27a819ec3dedf">Photon::BrowserWindow::BrowserWindow</a></div><div class="ttdeci">BrowserWindow()=default</div></div>
 <div class="ttc" id="aclass_photon_1_1_browser_window_html_a8516d143232d71f5441f362264253a3d"><div class="ttname"><a href="class_photon_1_1_browser_window.html#a8516d143232d71f5441f362264253a3d">Photon::BrowserWindow::~BrowserWindow</a></div><div class="ttdeci">virtual ~BrowserWindow()=default</div></div>
-<div class="ttc" id="aclass_photon_1_1_browser_window_html_ab65906c3d60e87ef36f4fed06509fc9d"><div class="ttname"><a href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">Photon::BrowserWindow::release</a></div><div class="ttdeci">void release()</div><div class="ttdef"><b>Definition</b> BrowserWindow.hpp:361</div></div>
+<div class="ttc" id="aclass_photon_1_1_browser_window_html_ab65906c3d60e87ef36f4fed06509fc9d"><div class="ttname"><a href="class_photon_1_1_browser_window.html#ab65906c3d60e87ef36f4fed06509fc9d">Photon::BrowserWindow::release</a></div><div class="ttdeci">void release()</div><div class="ttdef"><b>Definition</b> BrowserWindow.hpp:351</div></div>
 <div class="ttc" id="aclass_photon_1_1_browser_window_html_ac8aaebbebcc5d0ba5c52db23b765eb64"><div class="ttname"><a href="class_photon_1_1_browser_window.html#ac8aaebbebcc5d0ba5c52db23b765eb64">Photon::BrowserWindow::PHOTON_COPY_DEFAULT</a></div><div class="ttdeci">PHOTON_COPY_DEFAULT(BrowserWindow)</div></div>
 <div class="ttc" id="aclass_photon_1_1_browser_window_html_ae5be8a859809d7c87ddddb14f07188ef"><div class="ttname"><a href="class_photon_1_1_browser_window.html#ae5be8a859809d7c87ddddb14f07188ef">Photon::BrowserWindow::load</a></div><div class="ttdeci">bool load(URL url)</div><div class="ttdef"><b>Definition</b> BrowserWindow.hpp:48</div></div>
 <div class="ttc" id="aclass_photon_1_1_i_d_o_m_object_html"><div class="ttname"><a href="class_photon_1_1_i_d_o_m_object.html">Photon::IDOMObject</a></div><div class="ttdef"><b>Definition</b> IDOMObject.hpp:28</div></div>
@@ -504,8 +494,7 @@ $(document).ready(function(){initNavTree('_browser_window_8hpp_source.html','');
 <div class="ttc" id="aclass_photon_1_1_shell_factory_html"><div class="ttname"><a href="class_photon_1_1_shell_factory.html">Photon::ShellFactory</a></div><div class="ttdef"><b>Definition</b> Core.hpp:72</div></div>
 <div class="ttc" id="aclass_photon_1_1_shell_factory_html_a1c4d436bf7f163c4dd23420b30ea6cdb"><div class="ttname"><a href="class_photon_1_1_shell_factory.html#a1c4d436bf7f163c4dd23420b30ea6cdb">Photon::ShellFactory::tab</a></div><div class="ttdeci">NSWindow * tab(const String text)</div><div class="ttdef"><b>Definition</b> Core.hpp:102</div></div>
 <div class="ttc" id="aclass_photon_1_1_u_r_l_html"><div class="ttname"><a href="class_photon_1_1_u_r_l.html">Photon::URL</a></div><div class="ttdef"><b>Definition</b> URL.hpp:44</div></div>
-<div class="ttc" id="aclass_photon_1_1_u_r_l_html_a14033f651cec7813965a891a2e844324"><div class="ttname"><a href="class_photon_1_1_u_r_l.html#a14033f651cec7813965a891a2e844324">Photon::URL::fetch</a></div><div class="ttdeci">String fetch()</div><div class="ttdef"><b>Definition</b> URL.mm:104</div></div>
-<div class="ttc" id="aclass_photon_1_1_u_r_l_html_a14c3b72d2343a183d3d87eca64e2237c"><div class="ttname"><a href="class_photon_1_1_u_r_l.html#a14c3b72d2343a183d3d87eca64e2237c">Photon::URL::get</a></div><div class="ttdeci">String get() noexcept</div><div class="ttdef"><b>Definition</b> URL.mm:31</div></div>
+<div class="ttc" id="aclass_photon_1_1_u_r_l_html_a14033f651cec7813965a891a2e844324"><div class="ttname"><a href="class_photon_1_1_u_r_l.html#a14033f651cec7813965a891a2e844324">Photon::URL::fetch</a></div><div class="ttdeci">String fetch()</div><div class="ttdef"><b>Definition</b> URL.mm:131</div></div>
 <div class="ttc" id="adev_2core_2_config_8hpp_html_adfdef0112e9fa82313b652f480397700"><div class="ttname"><a href="dev_2core_2_config_8hpp.html#adfdef0112e9fa82313b652f480397700">PHOTON_API</a></div><div class="ttdeci">#define PHOTON_API</div><div class="ttdef"><b>Definition</b> Config.hpp:64</div></div>
 <div class="ttc" id="ainternal_8h_html_a7cc019ad88e04ddd4d5ed8b80e8bd25d"><div class="ttname"><a href="internal_8h.html#a7cc019ad88e04ddd4d5ed8b80e8bd25d">in</a></div><div class="ttdeci">#define in</div><div class="ttdef"><b>Definition</b> internal.h:15</div></div>
 <div class="ttc" id="anamespace_photon_1_1_detail_html_abaa1bfe7f12343a1d2b36e2c116bdbc5"><div class="ttname"><a href="namespace_photon_1_1_detail.html#abaa1bfe7f12343a1d2b36e2c116bdbc5">Photon::Detail::WindowHandle</a></div><div class="ttdeci">void * WindowHandle</div><div class="ttdef"><b>Definition</b> BrowserWindow.hpp:28</div></div>

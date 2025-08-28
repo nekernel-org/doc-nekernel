@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['d_5fformatter_0',['d_formatter',['../classspdlog_1_1details_1_1d__formatter.html#ae76fa31e4f7a580659fb4066d6570124',1,'spdlog::details::d_formatter::d_formatter()'],['../classspdlog_1_1details_1_1_d__formatter.html#a7ef81810724512ddca71f77634c17807',1,'spdlog::details::D_formatter::D_formatter()']]],
+  ['d_5fformatter_0',['d_formatter',['../classspdlog_1_1details_1_1_d__formatter.html#a7ef81810724512ddca71f77634c17807',1,'spdlog::details::D_formatter::D_formatter()'],['../classspdlog_1_1details_1_1d__formatter.html#ae76fa31e4f7a580659fb4066d6570124',1,'spdlog::details::d_formatter::d_formatter()']]],
   ['daily_5ffile_5fsink_1',['daily_file_sink',['../classspdlog_1_1sinks_1_1daily__file__sink.html#a6b2f0df72feedefda32077f5b274af0b',1,'spdlog::sinks::daily_file_sink']]],
   ['daily_5flogger_5fformat_5fmt_2',['daily_logger_format_mt',['../namespacespdlog.html#a82e1fd25637249d1448014986861b41e',1,'spdlog']]],
   ['daily_5flogger_5fformat_5fst_3',['daily_logger_format_st',['../namespacespdlog.html#ae930db93e3f9686d875059200b82c09c',1,'spdlog']]],

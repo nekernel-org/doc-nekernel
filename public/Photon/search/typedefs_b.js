@@ -1,20 +1,14 @@
 var searchData=
 [
-  ['length_5fvector_0',['length_vector',['../namespacelitehtml.html#a759e78695e69067c65f1b81020fffb6e',1,'litehtml']]],
-  ['level_5ft_1',['level_t',['../namespacespdlog.html#a8585bf495310a6ce695191739351709b',1,'spdlog']]],
-  ['levels_5farray_2',['levels_array',['../classspdlog_1_1sinks_1_1syslog__sink.html#ae45dae4061312d87711905d9ba113afa',1,'spdlog::sinks::syslog_sink::levels_array'],['../classspdlog_1_1sinks_1_1systemd__sink.html#ad0652008be66ac583f91e738c3d5a1f3',1,'spdlog::sinks::systemd_sink::levels_array']]],
-  ['lodepngcolormode_3',['LodePNGColorMode',['../lodepng_8h.html#a8311042f05584567db96143811fe706d',1,'lodepng.h']]],
-  ['lodepngcolorstats_4',['LodePNGColorStats',['../lodepng_8h.html#acfea24109b86e348320636a5df7fa0d6',1,'lodepng.h']]],
-  ['lodepngcolortype_5',['LodePNGColorType',['../lodepng_8h.html#aeb20f58ed9dbcb534bae30f05a79f0a5',1,'lodepng.h']]],
-  ['lodepngcompresssettings_6',['LodePNGCompressSettings',['../lodepng_8h.html#a0f335a24ea8c0500860d582fbfeb1c38',1,'lodepng.h']]],
-  ['lodepngdecodersettings_7',['LodePNGDecoderSettings',['../lodepng_8h.html#a09fd723b8bbc750eeec5cb22e04530f1',1,'lodepng.h']]],
-  ['lodepngdecompresssettings_8',['LodePNGDecompressSettings',['../lodepng_8h.html#a7d5d22aab76370293dd43cb348630f33',1,'lodepng.h']]],
-  ['lodepngencodersettings_9',['LodePNGEncoderSettings',['../lodepng_8h.html#ac388ae9b29b361e55c967009b65a6369',1,'lodepng.h']]],
-  ['lodepngfilterstrategy_10',['LodePNGFilterStrategy',['../lodepng_8h.html#af06a75c0d744d7f99814dd607a3b798d',1,'lodepng.h']]],
-  ['lodepnginfo_11',['LodePNGInfo',['../lodepng_8h.html#a2b202fb988cf2b881266a26cf081f016',1,'lodepng.h']]],
-  ['lodepngstate_12',['LodePNGState',['../lodepng_8h.html#a23316369c1c2a1e76f0205fd4b482117',1,'lodepng.h']]],
-  ['lodepngtime_13',['LodePNGTime',['../lodepng_8h.html#a4892d17f5e08bac94a4f7a052fdcd816',1,'lodepng.h']]],
-  ['log_5fclock_14',['log_clock',['../namespacespdlog.html#a173dd7064323e4807d720eabcc95fc73',1,'spdlog']]],
-  ['log_5flevels_15',['log_levels',['../classspdlog_1_1details_1_1registry.html#a83f20981dbeda258dc4ca11cd354eb98',1,'spdlog::details::registry']]],
-  ['long_5ftype_16',['long_type',['../core_8h.html#a9174fa0aac401969efb266e326f42951',1,'core.h']]]
+  ['make_5findex_5fsequence_0',['make_index_sequence',['../namespacedetail.html#a82dd889f447e7a1383b8757be27f66e9',1,'detail']]],
+  ['make_5funsigned_5fchar_1',['make_unsigned_char',['../format_8h.html#a2c7940c3f46b2e13c805b50ef09377af',1,'format.h']]],
+  ['mapped_5ftype_5fconstant_2',['mapped_type_constant',['../core_8h.html#adc4b00dc3259d8fce83f914a5b38f354',1,'core.h']]],
+  ['mapper_3',['mapper',['../structformatter_3_01join__view_3_01_it_00_01_sentinel_00_01_char_01_4_00_01_char_01_4.html#a4ae7a4a1cb4cd5207096e8e5770357f6',1,'formatter&lt; join_view&lt; It, Sentinel, Char &gt;, Char &gt;::mapper'],['../structdetail_1_1range__mapper.html#a15a39d70b6d03623f2e4d2eb75a17bad',1,'detail::range_mapper::mapper']]],
+  ['maybe_5fconst_5frange_4',['maybe_const_range',['../namespacedetail.html#aa752d7c08f69ccbc3955f5f017b96a43',1,'detail']]],
+  ['memory_5fbuf_5ft_5',['memory_buf_t',['../namespacespdlog.html#aea76058cddbce57c4ee8b6a1985de360',1,'spdlog']]],
+  ['memory_5fbuffer_6',['memory_buffer',['../format_8h.html#aaba5427d5f788f71959666ba2a3bf167',1,'format.h']]],
+  ['milliseconds_7',['milliseconds',['../structchrono__formatter.html#aa3268d0334d472c112568d6a28d88922',1,'chrono_formatter']]],
+  ['mongo_5fsink_5fmt_8',['mongo_sink_mt',['../namespacespdlog_1_1sinks.html#a61cf990021c827aa23bb4e6a354e6610',1,'spdlog::sinks']]],
+  ['mongo_5fsink_5fst_9',['mongo_sink_st',['../namespacespdlog_1_1sinks.html#af5c4245c82f9b3514259300d90864e4a',1,'spdlog::sinks']]],
+  ['mutex_5ft_10',['mutex_t',['../structspdlog_1_1details_1_1console__mutex.html#a8c47cc70b6f1c3c7ddda2f919e4fae53',1,'spdlog::details::console_mutex::mutex_t'],['../classspdlog_1_1sinks_1_1wincolor__sink.html#ae79569edf4d5eeaf89ef6dbd15d2192d',1,'spdlog::sinks::wincolor_sink::mutex_t'],['../classspdlog_1_1sinks_1_1stdout__sink__base.html#aef02ee2f4bc9886ef7e42ebc0900c4df',1,'spdlog::sinks::stdout_sink_base::mutex_t'],['../classspdlog_1_1sinks_1_1ansicolor__sink.html#a8841639ce6013b9553fe1d27c13e4c69',1,'spdlog::sinks::ansicolor_sink::mutex_t'],['../structspdlog_1_1details_1_1console__nullmutex.html#a8464e2d02b3800061339841b94400da5',1,'spdlog::details::console_nullmutex::mutex_t']]]
 ];

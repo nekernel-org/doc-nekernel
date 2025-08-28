@@ -1,6 +1,16 @@
 var searchData=
 [
-  ['ostream_5fformatter_0',['ostream_formatter',['../ostream_8h.html#a4c6f5be12db252dec646dad81adee12e',1,'ostream.h']]],
-  ['ostream_5fsink_5fmt_1',['ostream_sink_mt',['../namespacespdlog_1_1sinks.html#aeef023d4552e1e9be997bec2aa2fb184',1,'spdlog::sinks']]],
-  ['ostream_5fsink_5fst_2',['ostream_sink_st',['../namespacespdlog_1_1sinks.html#a7c6131fdceb0975b2700d70994a6b351',1,'spdlog::sinks']]]
+  ['parse_5fcontext_0',['parse_context',['../structcustom__value.html#ac68007857d3f702299fe7f3f20fccf80',1,'custom_value']]],
+  ['parse_5fcontext_5ftype_1',['parse_context_type',['../classbasic__format__context.html#a846de9105c149fabc7284c37987e0637',1,'basic_format_context::parse_context_type'],['../classformat__string__checker.html#aabfdfb9d0a4a6dcfc8d209fa1b5e56e0',1,'format_string_checker::parse_context_type'],['../classbasic__printf__context.html#aea172cdf06a03ef2950fbff2de5ab3c8',1,'basic_printf_context::parse_context_type']]],
+  ['parse_5ffn_2',['parse_fn',['../namespacelitehtml.html#a3ea33e957db4c599e0372df923c9cf78',1,'litehtml']]],
+  ['parse_5ffunc_3',['parse_func',['../classformat__string__checker.html#a71a3b4e931846b2677a023b052ad6720',1,'format_string_checker']]],
+  ['pchar_4',['PChar',['../namespace_photon.html#ae4d6ac164cca9145da23547846bb5be0',1,'Photon']]],
+  ['photon_5fasm_5ffn_5ft_5',['photon_asm_fn_t',['../namespace_photon.html#a1b93bcee505ed50426ad1e937ce497a5',1,'Photon']]],
+  ['pixel_5fruns_6',['pixel_runs',['../namespacecanvas__ity.html#aefffbe6bf29b56f35ecb44b2b2aaa302',1,'canvas_ity']]],
+  ['pointer_7',['pointer',['../classcounting__iterator.html#a3333868d43ae0a1caf95ebfbe7d9b8ea',1,'counting_iterator::pointer'],['../classrapidxml_1_1attribute__iterator.html#a69acc2e60270d6a062c03c9cb1cf2aa7',1,'rapidxml::attribute_iterator::pointer'],['../classdetail_1_1truncating__iterator__base.html#aadb7f1019f339d99b325985354292a81',1,'detail::truncating_iterator_base::pointer'],['../classlitehtml_1_1tstring__view.html#a4d6ec9442162b3f304ed7170deff41ef',1,'litehtml::tstring_view::pointer'],['../classrapidxml_1_1node__iterator.html#a65dca8bca2b9c29f635b9ad0bdeeecb9',1,'rapidxml::node_iterator::pointer']]],
+  ['printf_5fargs_8',['printf_args',['../printf_8h.html#a6e093b81d518db186bd7a4df46693d36',1,'printf.h']]],
+  ['printf_5fcontext_9',['printf_context',['../printf_8h.html#ad064b33277ae21e91f72e6666af17daa',1,'printf.h']]],
+  ['props_5fmap_10',['props_map',['../namespacelitehtml.html#a86171356583b41763959d43205080d96',1,'litehtml']]],
+  ['pstring_11',['PString',['../namespace_photon.html#ad329832d3a7e1a14e8eb2e911c4e83d1',1,'Photon']]],
+  ['ptr_12',['ptr',['../classlitehtml_1_1raw__rule.html#a61001733a3464a1529b3a3adafa57c6c',1,'litehtml::raw_rule::ptr'],['../structlitehtml_1_1decoder.html#ad9043878db212970c3c5014e6931553e',1,'litehtml::decoder::ptr'],['../classlitehtml_1_1media__query__list__list.html#ac11754ef5fe770b36d8299633deaaac7',1,'litehtml::media_query_list_list::ptr'],['../classlitehtml_1_1html__tag.html#aede1ac34d57edfb58ab350056b92fc69',1,'litehtml::html_tag::ptr'],['../classlitehtml_1_1style.html#afd8e236cf7def9e239a5c910e88dc8be',1,'litehtml::style::ptr'],['../classlitehtml_1_1document.html#a0207ffbbef16b57cda1363dba77d559b',1,'litehtml::document::ptr'],['../classlitehtml_1_1used__selector.html#a30f35262b96007ed6b5cc2b1099bd61b',1,'litehtml::used_selector::ptr'],['../classlitehtml_1_1css__selector.html#a2fcd33d4e4a778fb675f0b1e9b157d5e',1,'litehtml::css_selector::ptr'],['../classlitehtml_1_1css__element__selector.html#ab26b4f049595759cbe810196193cccc2',1,'litehtml::css_element_selector::ptr'],['../classlitehtml_1_1element.html#a993767c9ef9ea9710c0e86512d615d48',1,'litehtml::element::ptr']]]
 ];

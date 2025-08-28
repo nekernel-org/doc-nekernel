@@ -1,7 +1,7 @@
 var searchData=
 [
   ['m_5faddr_0',['m_Addr',['../struct_photon_1_1_h_t_t_p_1_1_h_t_t_p_1_1_h_t_t_p_socket_1_1m___addr.html',1,'Photon::HTTP::HTTP::HTTPSocket']]],
-  ['m_5fformatter_1',['m_formatter',['../classspdlog_1_1details_1_1m__formatter.html',1,'spdlog::details::m_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1_m__formatter.html',1,'spdlog::details::M_formatter&lt; ScopedPadder &gt;']]],
+  ['m_5fformatter_1',['m_formatter',['../classspdlog_1_1details_1_1_m__formatter.html',1,'spdlog::details::M_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1m__formatter.html',1,'spdlog::details::m_formatter&lt; ScopedPadder &gt;']]],
   ['make_5finteger_5fsequence_2',['make_integer_sequence',['../structdetail_1_1make__integer__sequence.html',1,'detail']]],
   ['make_5finteger_5fsequence_3c_20t_2c_200_2c_20ns_2e_2e_2e_20_3e_3',['make_integer_sequence&lt; T, 0, Ns... &gt;',['../structdetail_1_1make__integer__sequence_3_01_t_00_010_00_01_ns_8_8_8_01_4.html',1,'detail']]],
   ['make_5funsigned_5for_5fbool_4',['make_unsigned_or_bool',['../structmake__unsigned__or__bool.html',1,'']]],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['a_5fformatter_0',['a_formatter',['../classspdlog_1_1details_1_1_a__formatter.html',1,'spdlog::details::A_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1a__formatter.html',1,'spdlog::details::a_formatter&lt; ScopedPadder &gt;']]],
+  ['a_5fformatter_0',['a_formatter',['../classspdlog_1_1details_1_1a__formatter.html',1,'spdlog::details::a_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1_a__formatter.html',1,'spdlog::details::A_formatter&lt; ScopedPadder &gt;']]],
   ['affine_5fmatrix_1',['affine_matrix',['../structcanvas__ity_1_1affine__matrix.html',1,'canvas_ity']]],
   ['aggregate_5fformatter_2',['aggregate_formatter',['../classspdlog_1_1details_1_1aggregate__formatter.html',1,'spdlog::details']]],
   ['an_5fb_3',['an_b',['../structlitehtml_1_1an__b.html',1,'litehtml']]],

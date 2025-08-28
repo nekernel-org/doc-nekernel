@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['t_5fformatter_0',['t_formatter',['../classspdlog_1_1details_1_1_t__formatter.html#ad35d83b6e45180223912181dc209eec0',1,'spdlog::details::T_formatter::T_formatter()'],['../classspdlog_1_1details_1_1t__formatter.html#aeaf2992c6885333fa5eb628a6a5be689',1,'spdlog::details::t_formatter::t_formatter()']]],
+  ['t_5fformatter_0',['t_formatter',['../classspdlog_1_1details_1_1t__formatter.html#aeaf2992c6885333fa5eb628a6a5be689',1,'spdlog::details::t_formatter::t_formatter()'],['../classspdlog_1_1details_1_1_t__formatter.html#ad35d83b6e45180223912181dc209eec0',1,'spdlog::details::T_formatter::T_formatter()']]],
   ['t_5fisalpha_1',['t_isalpha',['../namespacelitehtml.html#af3ae780ee0c22a06aca2f8158ba43a35',1,'litehtml']]],
   ['t_5fisdigit_2',['t_isdigit',['../namespacelitehtml.html#a50cdd14332318fe4a27086ab18dfd464',1,'litehtml']]],
   ['t_5fstrcasecmp_3',['t_strcasecmp',['../namespacelitehtml.html#ae9135c6e7c5591ed690ffa317d7a895f',1,'litehtml']]],

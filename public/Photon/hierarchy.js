@@ -194,6 +194,9 @@ var hierarchy =
     [ "detail::dynamic_arg_list", "classdetail_1_1dynamic__arg__list.html", null ],
     [ "dynamic_format_arg_store< Context >", "classdynamic__format__arg__store.html", null ],
     [ "dynamic_formatter< Char >", "classdynamic__formatter.html", null ],
+    [ "Photon::ECMAInstruction", "struct_photon_1_1_e_c_m_a_instruction.html", null ],
+    [ "Photon::ECMAObject", "struct_photon_1_1_e_c_m_a_object.html", null ],
+    [ "Photon::ECMAVirtualMachine", "class_photon_1_1_e_c_m_a_virtual_machine.html", null ],
     [ "litehtml::elements_iterator", "classlitehtml_1_1elements__iterator.html", null ],
     [ "std::enable_shared_from_this", null, [
       [ "litehtml::document", "classlitehtml_1_1document.html", null ],
@@ -507,9 +510,6 @@ var hierarchy =
       [ "litehtml::table_rows_selector", "classlitehtml_1_1table__rows__selector.html", null ]
     ] ],
     [ "Photon::IURLLoader", "class_photon_1_1_i_u_r_l_loader.html", null ],
-    [ "Photon::JSInstruction", "struct_photon_1_1_j_s_instruction.html", null ],
-    [ "Photon::JSObject", "struct_photon_1_1_j_s_object.html", null ],
-    [ "Photon::JSVirtualMachine", "class_photon_1_1_j_s_virtual_machine.html", null ],
     [ "litehtml::line_box", "classlitehtml_1_1line__box.html", null ],
     [ "litehtml::line_box_item", "classlitehtml_1_1line__box__item.html", [
       [ "litehtml::lbi_start", "classlitehtml_1_1lbi__start.html", [

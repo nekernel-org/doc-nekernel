@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['r_5fformatter_0',['r_formatter',['../classspdlog_1_1details_1_1_r__formatter.html',1,'spdlog::details::R_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1r__formatter.html',1,'spdlog::details::r_formatter&lt; ScopedPadder &gt;']]],
+  ['r_5fformatter_0',['r_formatter',['../classspdlog_1_1details_1_1r__formatter.html',1,'spdlog::details::r_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1_r__formatter.html',1,'spdlog::details::R_formatter&lt; ScopedPadder &gt;']]],
   ['radial_5fgradient_1',['radial_gradient',['../classlitehtml_1_1background__layer_1_1radial__gradient.html',1,'litehtml::background_layer']]],
   ['range_2',['range',['../structlitehtml_1_1gb18030__decoder_1_1range.html',1,'litehtml::gb18030_decoder']]],
   ['range_5fdefault_5fformatter_3',['range_default_formatter',['../structdetail_1_1range__default__formatter.html',1,'detail']]],

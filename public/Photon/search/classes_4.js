@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['d_5fformatter_0',['d_formatter',['../classspdlog_1_1details_1_1_d__formatter.html',1,'spdlog::details::D_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1d__formatter.html',1,'spdlog::details::d_formatter&lt; ScopedPadder &gt;']]],
+  ['d_5fformatter_0',['d_formatter',['../classspdlog_1_1details_1_1d__formatter.html',1,'spdlog::details::d_formatter&lt; ScopedPadder &gt;'],['../classspdlog_1_1details_1_1_d__formatter.html',1,'spdlog::details::D_formatter&lt; ScopedPadder &gt;']]],
   ['daily_5ffile_5fsink_1',['daily_file_sink',['../classspdlog_1_1sinks_1_1daily__file__sink.html',1,'spdlog::sinks']]],
   ['daily_5ffilename_5fcalculator_2',['daily_filename_calculator',['../structspdlog_1_1sinks_1_1daily__filename__calculator.html',1,'spdlog::sinks']]],
   ['daily_5ffilename_5fformat_5fcalculator_3',['daily_filename_format_calculator',['../structspdlog_1_1sinks_1_1daily__filename__format__calculator.html',1,'spdlog::sinks']]],

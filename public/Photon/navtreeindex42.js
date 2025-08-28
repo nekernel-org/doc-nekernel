@@ -1,6 +1,5 @@
 var NAVTREEINDEX42 =
 {
-"stdout__color__sinks_8h.html#adf8d38fe4201bc8f4b5255c4fbea7aae":[4,0,1,3,3,23,1],
 "stdout__color__sinks_8h.html#ae250bdfb99a0bd44c401707f21b8f856":[4,0,1,3,3,23,6],
 "stdout__color__sinks_8h.html#ae3eb6549df72c3c46dea34fd35fee93e":[4,0,1,3,3,23,3],
 "stdout__color__sinks_8h.html#af5b53d274a7f3e3528ef994035cc7204":[4,0,1,3,3,23,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX42 =
 "struct_gumbo_internal_utf8_iterator.html#a865b9f12ef2b961fc01a2fa4dba759b5":[3,0,142,7],
 "struct_gumbo_internal_utf8_iterator.html#aadfabc67c5befaa1e1c7a99ddb81b2c1":[3,0,142,3],
 "struct_gumbo_internal_utf8_iterator.html#ad07c3d7c983623fb86df822e2d021d63":[3,0,142,4],
-"struct_gumbo_source_position.html":[3,0,143]
+"struct_gumbo_source_position.html":[3,0,143],
+"struct_gumbo_source_position.html#a16cbbccf23f85b612f3e415ce31f187b":[3,0,143,1]
 };
